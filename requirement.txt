@@ -1,2 +1,3 @@
 fastApi
 uvicorn
+fastapi_chameleon

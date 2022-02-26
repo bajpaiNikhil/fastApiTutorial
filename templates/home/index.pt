@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fake PyPi</title>
+</head>
+<body>
+<h1>Fake PYpi</h1>
+<!--ul>li*3-->
+
+<div>
+    User:${user_name}
+</div>
+<ul>
+    <li>IamStupid</li>
+    <li>You are stupid</li>
+    <li> WE are stupid</li>
+</ul>
+
+</body>
+</html>
