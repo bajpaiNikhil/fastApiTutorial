@@ -1,3 +1,4 @@
 fastApi
 uvicorn
 fastapi_chameleon
+aiofiles
